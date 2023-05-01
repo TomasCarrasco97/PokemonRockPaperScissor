@@ -1,0 +1,10 @@
+﻿  EndScreen.cpp
+C:\Users\tomas\OneDrive\Desktop\New folder (3)\PokemonRockPaperScissor\EndScreen.cpp(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Response.cpp
+C:\Users\tomas\OneDrive\Desktop\New folder (3)\PokemonRockPaperScissor\Response.h(4,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  GameScreen.cpp
+C:\Users\tomas\OneDrive\Desktop\New folder (3)\PokemonRockPaperScissor\GameScreen.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Main.cpp
+C:\Users\tomas\OneDrive\Desktop\New folder (3)\PokemonRockPaperScissor\Main.cpp(5,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  StartScreen.cpp
+C:\Users\tomas\OneDrive\Desktop\New folder (3)\PokemonRockPaperScissor\StartScreen.cpp(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
